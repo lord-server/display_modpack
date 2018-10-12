@@ -1,6 +1,8 @@
 # Display Modpack 
 Version 1.1.1
 
+Adapted for Lord Of Ring server
+
 This modpack provides mods with dynamic display. Mods are :
 
 - **display_api**: A library for adding display entities to nodes;
